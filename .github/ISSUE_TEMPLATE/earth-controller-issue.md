@@ -1,5 +1,5 @@
 ---
-name: Issue template
+name: Earth Controller Issue
 about: earth-controller
 title: ''
 labels: ''
