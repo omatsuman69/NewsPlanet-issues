@@ -1,2 +1,2 @@
-# earth-controller-issues
-✅ Earth Planet Prototype Issue管理
+# NewsPlanet-issues
+✅ NewsPlanet-proto Issue管理
